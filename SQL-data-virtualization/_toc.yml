@@ -4,3 +4,7 @@
   file: /northwindVirtualization
 - title: External NorthWind Query
   file: /ExternalNorthWindQuery
+- title: VirtualizeFromMongoDB
+  file: /VirtualizeFromMongoDB
+- title: db_functions
+  file: /create_functions_db
